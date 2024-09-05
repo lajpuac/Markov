@@ -1,0 +1,16 @@
+C:\Users\FQ202404\source\repos\Markov\Markov\bin\Debug\net8.0-windows\Markov.exe
+C:\Users\FQ202404\source\repos\Markov\Markov\bin\Debug\net8.0-windows\Markov.deps.json
+C:\Users\FQ202404\source\repos\Markov\Markov\bin\Debug\net8.0-windows\Markov.runtimeconfig.json
+C:\Users\FQ202404\source\repos\Markov\Markov\bin\Debug\net8.0-windows\Markov.dll
+C:\Users\FQ202404\source\repos\Markov\Markov\bin\Debug\net8.0-windows\Markov.pdb
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\Markov.Form1.resources
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\Markov.csproj.GenerateResource.cache
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\Markov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\Markov.AssemblyInfoInputs.cache
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\Markov.AssemblyInfo.cs
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\Markov.csproj.CoreCompileInputs.cache
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\Markov.dll
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\refint\Markov.dll
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\Markov.pdb
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\Markov.genruntimeconfig.cache
+C:\Users\FQ202404\source\repos\Markov\Markov\obj\Debug\net8.0-windows\ref\Markov.dll
